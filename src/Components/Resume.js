@@ -6,7 +6,7 @@ class Resume extends Component {
 
 
     return (
-      
+
         <section id="resume">
           <Slide bottom>
           <div className="row education">
@@ -52,6 +52,10 @@ class Resume extends Component {
             <p className="info"><span>&bull;</span> <em className="date">2019-2022</em></p>
             <p>Developing a product useful for the public.</p>
           </div>
+          <div><h3>Rythm flows intern</h3>
+            <p className="info"><span>&bull;</span> <em className="date">2020-2021</em></p>
+            <p>Data science roll</p>
+          </div>
           </div>
           </div>
           </Slide>
@@ -82,6 +86,11 @@ class Resume extends Component {
               <li key="Web_Scraping"><span style={{width:"80%"}}className="bar-expand web_scraping"></span><em>Web Scraping</em></li>
               <li key="Pred_analysis"><span style={{width:"90%"}}className="bar-expand pred_analysis"></span><em>Predictive Analysis</em></li>
               <li key="CnC"><span style={{width:"85%"}}className="bar-expand cnc"></span><em>Clustering and Classification</em></li>
+              <li key="CnC"><span style={{width:"85%"}}className="bar-expand cnc"></span><em>Neural Networks</em></li>
+              <li key="CnC"><span style={{width:"85%"}}className="bar-expand cnc"></span><em>Semantic segmentation</em></li>
+              <li key="CnC"><span style={{width:"85%"}}className="bar-expand cnc"></span><em>Deep Learning</em></li>
+              <li key="CnC"><span style={{width:"85%"}}className="bar-expand cnc"></span><em>GAN</em></li>
+              <li key="CnC"><span style={{width:"85%"}}className="bar-expand cnc"></span><em>Adversial Network</em></li>
             </ul>
           </div>
         </div>
