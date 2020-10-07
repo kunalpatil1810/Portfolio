@@ -4,7 +4,7 @@ import {Zoom} from 'react-reveal';
 class Header extends Component {
   render() {
 
-      
+
 
     return (
       <header id="home" >
@@ -17,8 +17,11 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
+	          <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
+            <li><a href="https://www.linkedin.com/in/yash-sonar-b89265176/">My Linkedin</a></li>
+            <li><a href="https://github.com/Yash-567">My GITHUB</a></li>
+            <li><a href="https://www.instagram.com/yash_sonar/?hl=en">IG handle</a></li>
          </ul>
 
       </nav>

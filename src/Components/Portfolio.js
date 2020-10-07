@@ -12,7 +12,7 @@ class Portfolio extends Component {
         <div className="three columns header-col">
             <h1><span>Experience</span></h1>
           </div>
-        <div className="nine columns main-col">
+        <div className="ten columns main-col">
           <div><h3>CREDENZ Tech Days Website</h3>
             <p className="info"><span>&bull;</span> <em className="date">02/2020 – Present</em></p>
             <p>This is the official website for Credenz Tech Days'20 made using

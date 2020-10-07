@@ -23,7 +23,7 @@ class Resume extends Component {
                 </div>
                 <div><h3>DAV Public School</h3>
                 <p className="info"><span>&bull;</span><em className="date">2006-2016</em></p>
-                <p>Other than the mainstream skills that the college teached us, I learnt a lot of other important skills like Teamwork, Determination and Perseverance</p>
+                <p>Other than the mainstream skills that the college taught us, I learnt a lot of other important skills like Teamwork, Determination and Perseverance</p>
                 </div>
                 </div>
               </div>

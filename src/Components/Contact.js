@@ -12,7 +12,7 @@ class Contact extends Component {
 
    <div className="two columns header-col">
 
-      <h1><span>Get In Touch.</span></h1>
+      <h1><span>Get In Touch with me.</span></h1>
 
    </div>
 
@@ -77,7 +77,7 @@ class Contact extends Component {
          </p>
       </div>
 
-      
+
    </aside>
 </div>
 </section>
